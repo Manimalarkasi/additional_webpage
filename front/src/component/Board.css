@@ -1,0 +1,40 @@
+*{
+     /* position :fixed; */
+     margin:5px;
+}
+.head{
+    background-color: aqua;
+    width:100%;
+    height:100px;
+}
+/* .search{
+    position:absolute;
+   float: right;
+
+} */
+.in{
+   float: right;
+    outline: none;
+    border-radius: 40px;
+    height: 50px;
+    padding-left:30px;
+    direction: unset;
+    color: #67a05f;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 30px;
+}
+.icon{
+   float: right;
+    cursor: pointer;
+    background-color:aliceblue;
+    padding: 15px;
+    border-radius: 50px;
+    margin: 30px 0px;
+}
+.aa{
+    float: right;
+    height:70px;
+    width:70px;
+   padding:25px;
+}
